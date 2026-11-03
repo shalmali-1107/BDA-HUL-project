@@ -1,0 +1,6 @@
+{
+  "name": "HUL Kirana Demand-Sensing Platform",
+  "description": "Multi-role demand-sensing and replenishment platform connecting kirana retailers, sales reps, distributors, and HUL planners.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
